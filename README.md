@@ -1,7 +1,9 @@
 <div style="display: flex">
-  <a href="https://github.com/sm-nikolas">
-    <img height="180em" align="center"  width="400"src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm-nikolas&layout=compact&theme=nord&&hide=hack"
-  </a>
+  <div style="justifyContent: center">
+    <a href="https://github.com/sm-nikolas">
+      <img height="180em" align="center"  width="400"src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm-nikolas&layout=compact&theme=nord&&hide=hack"
+    </a>
+  </div>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="sm-nikolas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
