@@ -1,6 +1,6 @@
 <div>
   <a href="https://github.com/sm-nikolas">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm-nikolas&layout=compact&theme=nord&&hide=hack"
+    <img height="180em" align="center"  width="40"src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm-nikolas&layout=compact&theme=nord&&hide=hack"
   </a>
 </div>
 <div style="display: inline_block"><br>
