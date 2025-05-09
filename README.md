@@ -1,5 +1,6 @@
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
 <div>
-  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
   <a href="https://github.com/sm-nikolas">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm-nikolas&layout=compact&theme=nord&&hide=hack"
   </a>
