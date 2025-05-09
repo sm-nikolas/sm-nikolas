@@ -1,4 +1,4 @@
-![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+![Status](./profile-3d-contrib/profile-night-green.svg)
 
 <div>
   <a href="https://github.com/sm-nikolas">
